@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything and everything 😅
 - 📫 Reach me at: dikshu360@gmail.com
-- ⚡ SKills - Android/Java|Frontend Technologies|C++
+- ⚡ SKills - Android/Java|React Js|Frontend Technologies|C++
 <img src ="https://github-readme-stats.vercel.app/api?username=diksharajguru&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=121332"> 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=diksharajguru&langs_count=8">
 
