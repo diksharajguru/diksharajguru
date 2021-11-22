@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my porfolio
 - 🌱 I’m currently learning everything 😂
-- 👯 I’m looking to collaborate on Mobile Development
+- 👯 I’m looking to collaborate in Development Domain
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything and everything 😅
 - 📫 Reach me at: dikshu360@gmail.com
